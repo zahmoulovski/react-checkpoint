@@ -14,9 +14,9 @@ code {
 .contactform{
   width: 80%;
   margin: auto;
-  padding: 0 50px;
+  padding: 100px 50px;
 }
-.slider{
-  height: 100%;
+.d-block{
+  height: 500px;
   overflow: auto;
 }
